@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\Sage\Documents\GitHub\forge\eclipse\.metadata\.plugins\org.eclipse.jdt.core
+4257325822.index
